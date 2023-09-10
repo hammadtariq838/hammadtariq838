@@ -1,4 +1,3 @@
-<div style="display: flex; justify-content: space-between; align-items: center; flex-direction: column; padding: 0 200px; box-sizing: border-box; background-color: #f1f1f1; min-height: 100vh; color: black; width: fit-content; margin: auto">
     <div>
         <h1 align="center">Hi 👋, I'm Hammad Tariq</h1>
         <h3 align="center">A passionate Software Engineer, a Tech Enthusiast and a Learner.</h3>
@@ -6,19 +5,19 @@
     <hr>
     <div align="center">
         <h1> Software Developer </h1>
-        <ol>
-            <li>🔭 I’m currently working on my Final Year Project.</li>
-            <li>🌱 I’m currently learning React Native.</li>
-            <li>👯 I’m looking to collaborate on Open Source Projects.</li>
-            <li>💬 Ask me about anything related to Tech.</li>
-            <li>📫 How to reach me:
+        <div margin="auto" width="fit-content">
+            <p>🔭 I’m currently working on my Final Year Project.</p>
+            <p>🌱 I’m currently learning React Native.</p>
+            <p>👯 I’m looking to collaborate on Open Source Projects.</p>
+            <p>💬 Ask me about anything related to Tech.</p>
+            <p>📫 How to reach me:
                 <a href="mailto:24100267@lums.edu.pk">
                     24100267@lums.edu.pk
                 </a>
-            </li>
-            <li>😄 Pronouns: He/Him</li>
-            <li>⚡ Fun fact: I love to play Cricket.</li>
-        </ul>
+            </p>
+            <p>😄 Pronouns: He/Him</p>
+            <p>⚡ Fun fact: I love to play Cricket.</p>
+        </div
     </div>
     <div  align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hammadtariq838&"
@@ -120,4 +119,3 @@
             alt="hammadtariq838" />
     </div>
     <hr>
-</div>
