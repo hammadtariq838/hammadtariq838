@@ -6,7 +6,7 @@
     <hr>
     <div align="center">
         <h1> Software Developer </h1>
-        <ul style="list-style-type: none; margin: auto; padding: 20px; width: fit-content; color: black; background-color: #f1f1f1; display: flex; flex-direction: column; align-items: start">
+        <ol>
             <li>🔭 I’m currently working on my Final Year Project.</li>
             <li>🌱 I’m currently learning React Native.</li>
             <li>👯 I’m looking to collaborate on Open Source Projects.</li>
