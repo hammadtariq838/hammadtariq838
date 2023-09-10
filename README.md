@@ -3,7 +3,7 @@
     <h3 align="center">A passionate Software Engineer, a Tech Enthusiast and a Learner.</h3>
 </div>
 <hr>
-<div align="center">
+<div>
     <h1> Software Developer </h1>
     <div margin="auto" width="fit-content">
         <p>🔭 I’m currently working on my Final Year Project.</p>
@@ -19,12 +19,12 @@
         <p>⚡ Fun fact: I love to play Cricket.</p>
     </div
 </div>
-<div  align="center">
+<div>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hammadtariq838&"
     alt="hammadtariq838" />
 </div>
 <hr>
-<div align="center">
+<div>
     <h3>Connect with me:</h3>
     <a href="#" target="_blank">
         <img src="assets/linkedin.svg" alt="linkedin" height="30" width="40" />
@@ -41,7 +41,7 @@
 </div>
 <hr>
 <h3>Languages and Tools:</h3>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; width: 100%; gap: 20px">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; width: 100%; gap: 20px">
     <a href="#" target="_blank">
         <img src="assets/amplify.svg" alt="amplify" height="40" width="40" />
     </a>
@@ -113,7 +113,7 @@
     </a>
 </div>
 <hr>
-<div align="center">
+<div>
     <img
         src="https://github-readme-stats.vercel.app/api/top-langs?username=hammadtariq838&show_icons=true&locale=en&layout=compact"
         alt="hammadtariq838" />
