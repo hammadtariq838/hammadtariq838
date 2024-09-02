@@ -25,6 +25,7 @@ I'm a passionate full-stack developer with a love for creating end-to-end web so
 - Deep Learning and Parallel Processing with CUDA
 
 ## 📊 GitHub Stats
+![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=hammadtariq838)
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=hammadtariq838&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
