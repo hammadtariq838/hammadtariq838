@@ -32,7 +32,7 @@ I'm a passionate full-stack developer with a love for creating end-to-end web so
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hammadtariq838&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🎯 Goals for 2023
+## 🎯 Goals for 2024
 - Enhance my skills in cloud technologies and serverless architectures
 - Contribute to open-source projects in the React and Node.js ecosystems
 - Explore more about AI integration in web applications
