@@ -26,7 +26,8 @@ I'm a passionate full-stack developer with a love for creating end-to-end web so
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=hammadtariq838)
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=hammadtariq838&show_icons=true&theme=radical)
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hammadtariq838&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hammadtariq838&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -37,7 +38,7 @@ I'm a passionate full-stack developer with a love for creating end-to-end web so
 - Explore more about AI integration in web applications
 
 ## 📫 How to reach me
-- LinkedIn: [Your LinkedIn]
+- LinkedIn: [[Your LinkedIn](https://www.linkedin.com/in/m-hammad-tariq/)]
 - Email: 24100267@lums.edu.pk
 - Mobile: +92 304 1131685
 
