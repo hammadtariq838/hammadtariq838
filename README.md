@@ -5,6 +5,8 @@ I'm a passionate full-stack developer with a love for creating end-to-end web so
 
 ![](https://komarev.com/ghpvc/?username=hammadtariq838&color=green)
 
+![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=hammadtariq838)
+
 ## 🛠 Skills
 - Programming Languages: JavaScript, TypeScript, Python
 - Frontend: React, Next.js, Tailwind CSS, shadcn/ui, Redux
@@ -25,8 +27,6 @@ I'm a passionate full-stack developer with a love for creating end-to-end web so
 - Deep Learning and Parallel Processing with CUDA
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=hammadtariq838)
-
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hammadtariq838&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
@@ -38,7 +38,7 @@ I'm a passionate full-stack developer with a love for creating end-to-end web so
 - Explore more about AI integration in web applications
 
 ## 📫 How to reach me
-- LinkedIn: [[Your LinkedIn](https://www.linkedin.com/in/m-hammad-tariq/)]
+- LinkedIn: [[m-hammad-tariq](https://www.linkedin.com/in/m-hammad-tariq/)]
 - Email: 24100267@lums.edu.pk
 - Mobile: +92 304 1131685
 
