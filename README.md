@@ -1,50 +1,49 @@
-# 👋 Hi there, I'm Muhammad Hammad
+# Hi there! 👋 I'm Muhammad Hammad Tariq
 
-## 🚀 About Me
-I'm a passionate full-stack developer with a love for creating end-to-end web solutions. Currently, I'm a BS Computer Science student at Lahore University of Management Sciences (LUMS).
+[![Website](https://img.shields.io/badge/Website-hammadtariq838.vercel.app-blue?style=flat-square&logo=google-chrome)](https://hammadtariq838.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-m--hammad--tariq-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/m-hammad-tariq)
+[![Email](https://img.shields.io/badge/Email-hammadtariq838%40gmail.com-red?style=flat-square&logo=gmail)](mailto:hammadtariq838@gmail.com)
 
-![](https://komarev.com/ghpvc/?username=hammadtariq838&color=green)
+## 👨‍💻 About Me
+
+I'm a passionate Full Stack Developer with a strong focus on frontend technologies. Currently pursuing my BS in Computer Science at Lahore University of Management Sciences (LUMS), I have over 5 years of experience in web development, including freelance work and leading development teams.
+
+- 🔭 I'm currently working on [FindYourTutor](https://findyourtutor.com) as a Founding Full Stack Frontend-Heavy Engineer
+- 🌱 I'm constantly learning and improving my skills in NextJS, React, and cloud technologies
+- 💼 I'm open to collaborating on interesting projects
+
+## 🛠️ Technologies & Tools
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+## 🏆 Certifications
+
+- AWS Certified Cloud Practitioner (AWS CCP)
+
+## 🚀 Featured Projects
+
+- [NextJS Portfolio Website](https://hammadtariq838.vercel.app)
+- WebRTC based Video Chat Application
+
+## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=hammadtariq838)
 
-## 🛠 Skills
-- Programming Languages: JavaScript, TypeScript, Python
-- Frontend: React, Next.js, Tailwind CSS, shadcn/ui, Redux
-- Backend: Node.js, Express.js, Django
-- Databases: MySQL, PostgreSQL, MongoDB
-- ORMs: Mongoose, Prisma
-- APIs: REST API, trpc
-- Cloud Platforms: AWS, Digital Ocean
-- Other Tools: Git, Jira, VS Code
 
-## 🔭 I'm currently working on
-- Find Your Tutor - One-to-One Tutoring Platform (UK)
-- BidAI – Powerful BI tool for Construction Industry
-- Smart Meet – Online Educational Meeting App
+## 🌐 Connect with me
 
-## 🌱 I'm currently learning
-- Advanced AWS services
-- Deep Learning and Parallel Processing with CUDA
+- [Website](https://hammadtariq838.vercel.app)
+- [LinkedIn](https://www.linkedin.com/in/m-hammad-tariq)
+- [Email](mailto:hammadtariq838@gmail.com)
 
-## 📊 GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hammadtariq838&show_icons=true&theme=radical)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hammadtariq838&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-## 🎯 Goals for 2024
-- Enhance my skills in cloud technologies and serverless architectures
-- Contribute to open-source projects in the React and Node.js ecosystems
-- Explore more about AI integration in web applications
-
-## 📫 How to reach me
-- LinkedIn: [[m-hammad-tariq](https://www.linkedin.com/in/m-hammad-tariq/)]
-- Email: 24100267@lums.edu.pk
-- Mobile: +92 304 1131685
-
-## 😄 Fun fact
-I'm an AWS Certified Cloud Practitioner who loves to bridge the gap between frontend aesthetics and backend robustness!
-
----
-
-⭐️ From [hammadtariq838](https://github.com/hammadtariq838)
+Feel free to reach out if you want to collaborate on a project or just want to chat!
